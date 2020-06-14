@@ -16,4 +16,4 @@ Application uses Vaadin for simple Gui implementation.
 2. Set up local or remote DB
 (if remote i would recommend https://remotemysql.com/)
 
-
+Check application.properties fill the gaps basing on your profiles on above pages.
