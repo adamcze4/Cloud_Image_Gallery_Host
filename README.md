@@ -4,7 +4,7 @@ This is Spring Boot application implementing Spring Security.
 
 Main purpose is to let admin upload image and let user to see what was uploaded.
 Uploaded image links are persisted in mysql database.
-Threshold of uploaded images is dependent of Cloudinary limitations.
+Threshold of uploaded images is dependent on Cloudinary limitations.
 
 There are two roles available user and admin (hardcoded in WebSecurityConfig.java class).
 If you want to add users you have to implement custom sign in form.
